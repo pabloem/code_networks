@@ -1,0 +1,21 @@
+Social Network Analysis - Optional Programming Project
+Author: Pablo Estrada
+
+Description of each file and what it is used for:
+
+- SNA_project_PabloEstrada.pdf
+  - This is the project writeup paper. It is organized somewhat like an academic
+  paper, trying to include the parts suggested by professor Adamic.
+- SNA_project.R
+  - This is the R code to analyze all the data. It is not supposed to be run
+  completely. It is supposed to be read through and run by parts, depending on
+  what information one wants to obtain and plot.
+- include_network.sh
+  - This is the shell script to generate the Pajek .NET graph files from the
+  software project. It can be run from the root directory and it will generate
+  the file including all subdirectories.  It can be manually tuned, and I en-
+  courage you to take a look into the file and the comments.
+- *_pajek_2.net
+  - I included the Pajek .NET files for the networks, in case you want to repli-
+  cate the experiments without having to download the repositories. These can be
+  imported into Gephi or R normall.
