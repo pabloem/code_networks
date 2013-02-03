@@ -1,6 +1,18 @@
 Social Network Analysis - Optional Programming Project
 Author: Pablo Estrada
 
+Six Degrees of Inclusion
+
+This is a project I did for the social network analysis class on Coursera. In 
+this project, I analyzed the code bases of a few different software projects 
+written in the C language.
+
+As part of this study, I downloaded code bases of a couple software projects,
+and generated a network file where each node represented a file, and each edge
+represented that the origin node (file) was including the destination node (file).
+
+Also, as part of the project, the data was also analyzed using gephi.
+
 Description of each file and what it is used for:
 
 - SNA_project_PabloEstrada.pdf
